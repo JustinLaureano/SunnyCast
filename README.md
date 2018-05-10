@@ -1,6 +1,7 @@
 # SunnyCast
 
 A local video player that allows you to create a playlist and cast to any device via Chromecast.
+
 ![Sunny Cast Player](https://github.com/JustinLaureano/SunnyCast/blob/master/sunny_cast_player.jpg "Sunny Cast Player")
 
 ### Prerequisites
