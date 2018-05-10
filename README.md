@@ -7,6 +7,7 @@ A local video player that allows you to create a playlist and cast to any device
 ### Prerequisites
 
 [Python](https://www.python.org/)
+
 [CastNow](https://github.com/xat/castnow)
 
 ## Authors
